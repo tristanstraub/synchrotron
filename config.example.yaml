@@ -1,0 +1,13 @@
+machines:
+  - name: machine1.local
+    projects:
+      - name: dev/projects/myproject
+        location: /Users/username/dev/projects/myproject
+
+  - name: machine2.local
+    projects:
+      - name: dev/projects/myproject
+        location: /Users/username/dev/projects/myproject
+projects:
+  - name: dev/projects/myproject
+    type: git
