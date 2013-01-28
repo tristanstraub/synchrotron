@@ -8,6 +8,7 @@ machines:
     projects:
       - name: dev/projects/myproject
         location: /Users/username/dev/projects/myproject
+
 projects:
   - name: dev/projects/myproject
     type: git
